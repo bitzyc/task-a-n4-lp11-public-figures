@@ -202,6 +202,56 @@
     },
     {
       "exists": true,
+      "label": "figure_19_lumerical_raw_mode_field_previews",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/19_lumerical_raw_mode_field_previews.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_20_length_mmi_gain_and_solver_reconciliation",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/20_length_mmi_gain_and_solver_reconciliation.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_21_scf_modal_launch_spectrum",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/21_scf_modal_launch_spectrum.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_22_lumerical_basis_validation_summary",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/22_lumerical_basis_validation_summary.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_23_lumerical_smf_vector_gram",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/23_lumerical_smf_vector_gram.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_24_lumerical_scf_vector_gram",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/24_lumerical_scf_vector_gram.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_25_lumerical_fmf_vector_gram",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/25_lumerical_fmf_vector_gram.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_27_lumerical_mode_label_projection_stability",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/27_lumerical_mode_label_projection_stability.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_28_eme_smatrix_power_budget",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/28_eme_smatrix_power_budget.png"
+    },
+    {
+      "exists": true,
+      "label": "figure_29_revised_gate_robustness_deferred_summary",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/29_revised_gate_robustness_deferred_summary.png"
+    },
+    {
+      "exists": true,
       "label": "figure_geometry",
       "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_bpm_geometry.png"
     },
@@ -239,6 +289,26 @@
       "exists": true,
       "label": "figure_gate_metric_summary",
       "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_gate_metric_summary.png"
+    },
+    {
+      "exists": true,
+      "label": "final_report_gap_audit",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_report_gap_audit.csv"
+    },
+    {
+      "exists": true,
+      "label": "final_stage_figure_coverage",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_stage_figure_coverage.csv"
+    },
+    {
+      "exists": true,
+      "label": "final_report_requirement_audit_with_rsoft_bpm",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_report_requirement_audit_with_rsoft_bpm.csv"
+    },
+    {
+      "exists": true,
+      "label": "public_asset_manifest_with_rsoft_bpm",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/public_asset_manifest_with_rsoft_bpm.csv"
     },
     {
       "exists": true,
@@ -432,6 +502,116 @@
       "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/comsol_jones_cross_check/task_a_n4_lp11x_p46_s86_w85_f18_scf160/figures/comsol_jones_optimized_fmf_output_intensity.png"
     },
     {
+      "caption": "Raw imported Lumerical FDE mode-field previews for SMF, SCF, and FMF datasets used by the locked p46/SCF86/SCF160 evidence chain. This closes the final-report requirement for basis field visibility; it is dataset evidence, not a camera-only success claim.",
+      "claim_role": "required_raw_mode_field_preview",
+      "copied": true,
+      "figure_key": "19_lumerical_raw_mode_field_previews",
+      "model_scope": "Lumerical MODE FDE vector dataset validation",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/19_lumerical_raw_mode_field_previews.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/lumerical/scf_task_a_n4_lp11x_p46_s86_w85_f18_vector_modes.npz",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/lumerical/scf_task_a_n4_lp11x_p46_s86_w85_f18_vector_modes.npz"
+    },
+    {
+      "caption": "Length-scan and MMI-gain evidence. The RSoft/BPM panel explicitly compares direct `L=0` launch to the selected propagation length; the reconciliation panel records solver-specific length disagreement rather than hiding it.",
+      "claim_role": "required_mmi_gain_length_evidence",
+      "copied": true,
+      "figure_key": "20_length_mmi_gain_and_solver_reconciliation",
+      "model_scope": "Scalar/proxy + Lumerical retained-FDE + COMSOL retained-basis + RSoft/BPM",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/20_length_mmi_gain_and_solver_reconciliation.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/lumerical_vector_validation/fde_p46_s86_w85_f18_scf160/j004_p46_s86_w85_f18/lp11x_vector_length_scan.csv",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/lumerical_vector_validation/fde_p46_s86_w85_f18_scf160/j004_p46_s86_w85_f18/lp11x_vector_length_scan.csv"
+    },
+    {
+      "caption": "SCF retained-mode launch spectrum after the 4-core Jones input is remapped into the EME/FDE cell-1 basis. This is the required SCF modal-concentration evidence for the selected candidate.",
+      "claim_role": "required_scf_modal_spectrum",
+      "copied": true,
+      "figure_key": "21_scf_modal_launch_spectrum",
+      "model_scope": "Lumerical EME/FDE retained-basis remap",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/21_scf_modal_launch_spectrum.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/eme_jones_feasibility/fde_p46_s86_w85_f18_scf160_butt_cell1_remap_with_polarization/data/jones_eme_feasibility_sidecar.npz",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/eme_jones_feasibility/fde_p46_s86_w85_f18_scf160_butt_cell1_remap_with_polarization/data/jones_eme_feasibility_sidecar.npz"
+    },
+    {
+      "caption": "Basis validation summary for the imported Lumerical SMF/SCF/FMF vector datasets. This figure records Gram condition, orthogonality, and normalization evidence used by the retained-basis and EME replay chain.",
+      "claim_role": "required_basis_convergence_summary",
+      "copied": true,
+      "figure_key": "22_lumerical_basis_validation_summary",
+      "model_scope": "Lumerical MODE FDE vector dataset validation",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/22_lumerical_basis_validation_summary.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/sweeps/lumerical_mode_validation.csv",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/sweeps/lumerical_mode_validation.csv"
+    },
+    {
+      "caption": "SMF vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.",
+      "claim_role": "required_gram_heatmap",
+      "copied": true,
+      "figure_key": "23_lumerical_smf_vector_gram",
+      "model_scope": "Lumerical MODE FDE vector dataset validation",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/23_lumerical_smf_vector_gram.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/lumerical/smf_task_a_n4_lp11x_p46_s86_w85_f18_vector_modes.npz",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/lumerical/smf_task_a_n4_lp11x_p46_s86_w85_f18_vector_modes.npz"
+    },
+    {
+      "caption": "SCF160 vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.",
+      "claim_role": "required_gram_heatmap",
+      "copied": true,
+      "figure_key": "24_lumerical_scf_vector_gram",
+      "model_scope": "Lumerical MODE FDE vector dataset validation",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/24_lumerical_scf_vector_gram.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/lumerical/scf_task_a_n4_lp11x_p46_s86_w85_f18_vector_modes.npz",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/lumerical/scf_task_a_n4_lp11x_p46_s86_w85_f18_vector_modes.npz"
+    },
+    {
+      "caption": "FMF12 vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.",
+      "claim_role": "required_gram_heatmap",
+      "copied": true,
+      "figure_key": "25_lumerical_fmf_vector_gram",
+      "model_scope": "Lumerical MODE FDE vector dataset validation",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/25_lumerical_fmf_vector_gram.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/lumerical/fmf_task_a_n4_lp11x_p46_s86_w85_f18_vector_modes.npz",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/lumerical/fmf_task_a_n4_lp11x_p46_s86_w85_f18_vector_modes.npz"
+    },
+    {
+      "caption": "Mode-label projection stability for the FMF dataset. It separates assigned LP group labels from LP11x/LP11y-like reference projections, preventing camera-only or convention-only claims.",
+      "claim_role": "required_fmf_label_stability",
+      "copied": true,
+      "figure_key": "27_lumerical_mode_label_projection_stability",
+      "model_scope": "Lumerical MODE FDE vector dataset validation",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/27_lumerical_mode_label_projection_stability.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/sweeps/lumerical_mode_label_projection.csv",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/dataset_validation/p46_s86_scf160_dataset_validation/results/sweeps/lumerical_mode_label_projection.csv"
+    },
+    {
+      "caption": "Power budget from the real Lumerical EME S-matrix replay: LP11x target coupling, non-target LP11 leakage, LP01 leakage, S11 reflection, and untracked/loss. This figure distinguishes interface evidence from retained-FDE propagation evidence.",
+      "claim_role": "required_eme_interface_power_budget",
+      "copied": true,
+      "figure_key": "28_eme_smatrix_power_budget",
+      "model_scope": "Lumerical EME real S-matrix replay",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/28_eme_smatrix_power_budget.png",
+      "robustness_scope": "deferred",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/eme_jones_feasibility/fde_p46_s86_w85_f18_scf160_butt_cell1_remap_with_polarization/data/jones_eme_feasibility_metrics.csv",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/eme_jones_feasibility/fde_p46_s86_w85_f18_scf160_butt_cell1_remap_with_polarization/data/jones_eme_feasibility_metrics.csv"
+    },
+    {
+      "caption": "Existing robustness and tolerance data are visualized as deferred risk. This figure documents known sensitivity without upgrading the current report to a robust-final-validation claim.",
+      "claim_role": "required_deferred_robustness_record",
+      "copied": true,
+      "figure_key": "29_revised_gate_robustness_deferred_summary",
+      "model_scope": "retained-FDE robustness/tolerance diagnostics",
+      "path": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/29_revised_gate_robustness_deferred_summary.png",
+      "robustness_scope": "deferred_recorded",
+      "source_data": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/revised_camera_gate_robustness/fde_p46_s86_w85_f18_scf160_L7p80_7p92/data/lp11x_revised_camera_gate_robustness_samples.csv",
+      "source_path": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/revised_camera_gate_robustness/fde_p46_s86_w85_f18_scf160_L7p80_7p92/data/lp11x_revised_camera_gate_robustness_samples.csv"
+    },
+    {
       "caption": "Geometry and aperture overview for the locked p46/SCF86 LP11x-like Jones candidate. This supports the structure claim only; it is not a modal-success metric.",
       "claim_role": "solver_or_input_evidence",
       "copied": true,
@@ -610,11 +790,13 @@
   "outputs": {
     "artifact_index_csv": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/artifact_index_with_rsoft_bpm.csv",
     "figure_inventory_csv": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_report_figure_inventory_with_rsoft_bpm.csv",
+    "gap_audit_csv": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_report_gap_audit.csv",
     "key_metrics_csv": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_report_key_metrics_with_rsoft_bpm.csv",
     "manifest_json": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_status_with_rsoft_bpm_manifest.json",
     "public_asset_manifest_csv": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/public_asset_manifest_with_rsoft_bpm.csv",
     "report_md": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/lp11x_jones_polarization_final_status_with_rsoft_bpm_report.md",
-    "requirement_audit_csv": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_report_requirement_audit_with_rsoft_bpm.csv"
+    "requirement_audit_csv": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_report_requirement_audit_with_rsoft_bpm.csv",
+    "stage_figure_coverage_csv": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/data/final_stage_figure_coverage.csv"
   },
   "public_asset_manifest": [
     {
@@ -744,6 +926,76 @@
       "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/18_comsol_jones_optimized_fmf_output_intensity.png"
     },
     {
+      "caption": "Raw imported Lumerical FDE mode-field previews for SMF, SCF, and FMF datasets used by the locked p46/SCF86/SCF160 evidence chain. This closes the final-report requirement for basis field visibility; it is dataset evidence, not a camera-only success claim.",
+      "copied": true,
+      "figure_key": "19_lumerical_raw_mode_field_previews",
+      "filename": "19_lumerical_raw_mode_field_previews.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/19_lumerical_raw_mode_field_previews.png"
+    },
+    {
+      "caption": "Length-scan and MMI-gain evidence. The RSoft/BPM panel explicitly compares direct `L=0` launch to the selected propagation length; the reconciliation panel records solver-specific length disagreement rather than hiding it.",
+      "copied": true,
+      "figure_key": "20_length_mmi_gain_and_solver_reconciliation",
+      "filename": "20_length_mmi_gain_and_solver_reconciliation.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/20_length_mmi_gain_and_solver_reconciliation.png"
+    },
+    {
+      "caption": "SCF retained-mode launch spectrum after the 4-core Jones input is remapped into the EME/FDE cell-1 basis. This is the required SCF modal-concentration evidence for the selected candidate.",
+      "copied": true,
+      "figure_key": "21_scf_modal_launch_spectrum",
+      "filename": "21_scf_modal_launch_spectrum.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/21_scf_modal_launch_spectrum.png"
+    },
+    {
+      "caption": "Basis validation summary for the imported Lumerical SMF/SCF/FMF vector datasets. This figure records Gram condition, orthogonality, and normalization evidence used by the retained-basis and EME replay chain.",
+      "copied": true,
+      "figure_key": "22_lumerical_basis_validation_summary",
+      "filename": "22_lumerical_basis_validation_summary.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/22_lumerical_basis_validation_summary.png"
+    },
+    {
+      "caption": "SMF vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.",
+      "copied": true,
+      "figure_key": "23_lumerical_smf_vector_gram",
+      "filename": "23_lumerical_smf_vector_gram.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/23_lumerical_smf_vector_gram.png"
+    },
+    {
+      "caption": "SCF160 vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.",
+      "copied": true,
+      "figure_key": "24_lumerical_scf_vector_gram",
+      "filename": "24_lumerical_scf_vector_gram.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/24_lumerical_scf_vector_gram.png"
+    },
+    {
+      "caption": "FMF12 vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.",
+      "copied": true,
+      "figure_key": "25_lumerical_fmf_vector_gram",
+      "filename": "25_lumerical_fmf_vector_gram.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/25_lumerical_fmf_vector_gram.png"
+    },
+    {
+      "caption": "Mode-label projection stability for the FMF dataset. It separates assigned LP group labels from LP11x/LP11y-like reference projections, preventing camera-only or convention-only claims.",
+      "copied": true,
+      "figure_key": "27_lumerical_mode_label_projection_stability",
+      "filename": "27_lumerical_mode_label_projection_stability.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/27_lumerical_mode_label_projection_stability.png"
+    },
+    {
+      "caption": "Power budget from the real Lumerical EME S-matrix replay: LP11x target coupling, non-target LP11 leakage, LP01 leakage, S11 reflection, and untracked/loss. This figure distinguishes interface evidence from retained-FDE propagation evidence.",
+      "copied": true,
+      "figure_key": "28_eme_smatrix_power_budget",
+      "filename": "28_eme_smatrix_power_budget.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/28_eme_smatrix_power_budget.png"
+    },
+    {
+      "caption": "Existing robustness and tolerance data are visualized as deferred risk. This figure documents known sensitivity without upgrading the current report to a robust-final-validation claim.",
+      "copied": true,
+      "figure_key": "29_revised_gate_robustness_deferred_summary",
+      "filename": "29_revised_gate_robustness_deferred_summary.png",
+      "public_raw_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/29_revised_gate_robustness_deferred_summary.png"
+    },
+    {
       "caption": "Geometry and aperture overview for the locked p46/SCF86 LP11x-like Jones candidate. This supports the structure claim only; it is not a modal-success metric.",
       "copied": true,
       "figure_key": "geometry",
@@ -831,11 +1083,11 @@
       "status": "complete_current_status"
     },
     {
-      "deferred_reason": "Full global length/geometry optimization is deferred by task scope.",
-      "evidence": "RSoft gate metric delta_eta_vs_L0 and retained-FDE proof length; no new global length scan in this refresh",
+      "deferred_reason": "Full global length/geometry optimization remains deferred by task scope; current-status MMI evidence is covered.",
+      "evidence": "20_length_mmi_gain_and_solver_reconciliation plus RSoft direct L=0 delta_eta evidence",
       "requirement": "Length/MMI evidence and L=0 comparison.",
       "requirement_id": "4_mmi_gain_length",
-      "status": "partial_feasibility"
+      "status": "complete_current_status"
     },
     {
       "deferred_reason": "",
@@ -845,11 +1097,11 @@
       "status": "complete_current_status"
     },
     {
-      "deferred_reason": "A dedicated convergence figure can be regenerated if the report is upgraded from current-status to robust final validation.",
-      "evidence": "SCF160 retained-basis validation exists in source reports; no extra figure regenerated in this refresh",
+      "deferred_reason": "Expanded robust convergence sweeps remain future work; current SCF160/FMF12 basis evidence is plotted.",
+      "evidence": "22_lumerical_basis_validation_summary and copied SMF/SCF/FMF Gram heatmaps",
       "requirement": "Mode-count/basis convergence and Gram diagnostics.",
       "requirement_id": "6_basis_convergence",
-      "status": "referenced_not_replotted"
+      "status": "complete_current_status"
     },
     {
       "deferred_reason": "",
@@ -867,7 +1119,7 @@
     },
     {
       "deferred_reason": "Robustness optimization is intentionally deferred for this feasibility/current-status report.",
-      "evidence": "base_05_deferred_risk_matrix and report limitation section",
+      "evidence": "base_05_deferred_risk_matrix and 29_revised_gate_robustness_deferred_summary",
       "requirement": "Robustness/tolerance plots for robust-final claims, or explicit deferred-risk record.",
       "requirement_id": "9_robustness_tolerance",
       "status": "deferred_recorded"
@@ -1864,5 +2116,79 @@
   "schema": "scf_fmf_task_a_lp11x_final_status_with_rsoft_bpm.v1",
   "source_final_report_dir": "results/platform_runs/task_a_n4_lp11x_like_camera_two_lobe/outputs/final_result_report",
   "source_rsoft_dir": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/rsoft_beamprop_feasibility",
+  "stage_figure_coverage": [
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/base_01_evidence_chain.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/base_01_evidence_chain.png",
+      "required_figure_set": "evidence chain with solver status and claim boundary",
+      "source_data": "existing final report manifest plus refreshed key metrics",
+      "stage": "overview / evidence chain",
+      "status": "complete"
+    },
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/base_02_structure_jones_architecture.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_bpm_geometry.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/base_02_structure_jones_architecture.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_bpm_geometry.png",
+      "required_figure_set": "SMF/SCF/FMF top view plus Jones architecture and BPM geometry",
+      "source_data": "selected-candidate geometry manifests",
+      "stage": "structure / workflow",
+      "status": "complete"
+    },
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/06_smf_jones_input_summary.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/07_smf_jones_input_amplitude.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/08_smf_jones_input_phase.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/09_smf_jones_input_polarization.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_jones_input_controls.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/06_smf_jones_input_summary.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/07_smf_jones_input_amplitude.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/08_smf_jones_input_phase.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/09_smf_jones_input_polarization.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_jones_input_controls.png",
+      "required_figure_set": "per-channel Jones amplitude, phase, power, and polarization",
+      "source_data": "Jones input vector CSV/NPZ sidecars",
+      "stage": "input control",
+      "status": "complete"
+    },
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/10_smf_input_amplitude_phase.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/11_scf_z0_amplitude_phase.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/12_scf_zL_amplitude_phase.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/13_fmf_output_amplitude_phase.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/19_lumerical_raw_mode_field_previews.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/20_length_mmi_gain_and_solver_reconciliation.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/21_scf_modal_launch_spectrum.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/22_lumerical_basis_validation_summary.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/23_lumerical_smf_vector_gram.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/24_lumerical_scf_vector_gram.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/25_lumerical_fmf_vector_gram.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/10_smf_input_amplitude_phase.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/11_scf_z0_amplitude_phase.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/12_scf_zL_amplitude_phase.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/13_fmf_output_amplitude_phase.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/19_lumerical_raw_mode_field_previews.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/20_length_mmi_gain_and_solver_reconciliation.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/21_scf_modal_launch_spectrum.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/22_lumerical_basis_validation_summary.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/23_lumerical_smf_vector_gram.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/24_lumerical_scf_vector_gram.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/25_lumerical_fmf_vector_gram.png",
+      "required_figure_set": "field packet, raw modes, length scan, modal spectrum, Gram/basis diagnostics",
+      "source_data": "Lumerical mode NPZ, length scan CSV, field-packet NPZ",
+      "stage": "Lumerical FDE/vector",
+      "status": "complete_current_status"
+    },
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/base_04_modal_decomposition.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/27_lumerical_mode_label_projection_stability.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_modal_power_bars.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/base_04_modal_decomposition.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/27_lumerical_mode_label_projection_stability.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_modal_power_bars.png",
+      "required_figure_set": "actual output, LP11x/LP11y decomposition, mode-group bars",
+      "source_data": "FMF modal coefficients and LP-like projection CSVs",
+      "stage": "modal decomposition",
+      "status": "complete_current_status"
+    },
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/16_jones_eme_fmf_output_intensity.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/28_eme_smatrix_power_budget.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/16_jones_eme_fmf_output_intensity.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/28_eme_smatrix_power_budget.png",
+      "required_figure_set": "real S-matrix replay output and power budget",
+      "source_data": "EME S21/S11 replay metrics CSV and sidecar NPZ",
+      "stage": "Lumerical EME/interface",
+      "status": "complete_current_status"
+    },
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/17_comsol_jones_fmf_output_intensity.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/18_comsol_jones_optimized_fmf_output_intensity.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/20_length_mmi_gain_and_solver_reconciliation.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/17_comsol_jones_fmf_output_intensity.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/18_comsol_jones_optimized_fmf_output_intensity.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/20_length_mmi_gain_and_solver_reconciliation.png",
+      "required_figure_set": "locked replay and reoptimized retained-basis output; length disagreement captured",
+      "source_data": "COMSOL retained-basis cross-check CSV/JSON",
+      "stage": "COMSOL cross-check",
+      "status": "complete_current_status"
+    },
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_bpm_geometry.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_jones_input_controls.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_xpol_launch_field.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_ypol_launch_field.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_longitudinal_monitor.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_final_field_panels.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_modal_power_bars.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/rsoft_lp11x_gate_metric_summary.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_bpm_geometry.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_jones_input_controls.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_xpol_launch_field.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_ypol_launch_field.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_longitudinal_monitor.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_final_field_panels.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_modal_power_bars.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/rsoft_lp11x_gate_metric_summary.png",
+      "required_figure_set": "geometry, coherent launch, longitudinal monitor, final field, modal bars, Gate-I summary",
+      "source_data": "RSoft BeamPROP manifest, parsed fields, projection CSVs",
+      "stage": "RSoft BeamPROP/BPM",
+      "status": "complete_current_status"
+    },
+    {
+      "local_artifact": "Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/base_05_deferred_risk_matrix.png; Demo for user/2026-05-22_task_a_n4_lp11x_like_camera_two_lobe/results/final_status_report_with_rsoft_bpm/figures/29_revised_gate_robustness_deferred_summary.png",
+      "public_url": "https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/base_05_deferred_risk_matrix.png; https://raw.githubusercontent.com/bitzyc/task-a-n4-lp11-public-figures/main/task_a_n4_lp11x_jones_final_report_20260525_rsoft_bpm_refresh/figures/29_revised_gate_robustness_deferred_summary.png",
+      "required_figure_set": "deferred-risk table and existing tolerance/robustness diagnostics",
+      "source_data": "existing retained-FDE robustness/tolerance CSVs; not a robust-final gate",
+      "stage": "robustness/tolerance",
+      "status": "deferred_by_scope_recorded"
+    }
+  ],
   "variant": "task_a_n4_lp11x_p46_s86_w85_f18_scf160"
 }

@@ -39,7 +39,7 @@ Claim boundary:
 
 ## Figure Package
 
-This package contains `26` tracked figure rows. Every row is listed in `data/final_report_figure_inventory_with_rsoft_bpm.csv`; copied source availability is recorded per row.
+This package contains `36` tracked figure rows. Every row is listed in `data/final_report_figure_inventory_with_rsoft_bpm.csv`; copied source availability is recorded per row.
 
 ![base_01_evidence_chain](figures/base_01_evidence_chain.png)
 
@@ -113,6 +113,46 @@ This package contains `26` tracked figure rows. Every row is listed in `data/fin
 
 *Caption: COMSOL retained-basis fallback Jones re-optimization. This confirms the same geometry can support strict LP11x-like output in the COMSOL basis.*
 
+![19_lumerical_raw_mode_field_previews](figures/19_lumerical_raw_mode_field_previews.png)
+
+*Caption: Raw imported Lumerical FDE mode-field previews for SMF, SCF, and FMF datasets used by the locked p46/SCF86/SCF160 evidence chain. This closes the final-report requirement for basis field visibility; it is dataset evidence, not a camera-only success claim.*
+
+![20_length_mmi_gain_and_solver_reconciliation](figures/20_length_mmi_gain_and_solver_reconciliation.png)
+
+*Caption: Length-scan and MMI-gain evidence. The RSoft/BPM panel explicitly compares direct `L=0` launch to the selected propagation length; the reconciliation panel records solver-specific length disagreement rather than hiding it.*
+
+![21_scf_modal_launch_spectrum](figures/21_scf_modal_launch_spectrum.png)
+
+*Caption: SCF retained-mode launch spectrum after the 4-core Jones input is remapped into the EME/FDE cell-1 basis. This is the required SCF modal-concentration evidence for the selected candidate.*
+
+![22_lumerical_basis_validation_summary](figures/22_lumerical_basis_validation_summary.png)
+
+*Caption: Basis validation summary for the imported Lumerical SMF/SCF/FMF vector datasets. This figure records Gram condition, orthogonality, and normalization evidence used by the retained-basis and EME replay chain.*
+
+![23_lumerical_smf_vector_gram](figures/23_lumerical_smf_vector_gram.png)
+
+*Caption: SMF vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.*
+
+![24_lumerical_scf_vector_gram](figures/24_lumerical_scf_vector_gram.png)
+
+*Caption: SCF160 vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.*
+
+![25_lumerical_fmf_vector_gram](figures/25_lumerical_fmf_vector_gram.png)
+
+*Caption: FMF12 vector-basis Gram heatmap regenerated at final-report resolution from the imported Lumerical NPZ.*
+
+![27_lumerical_mode_label_projection_stability](figures/27_lumerical_mode_label_projection_stability.png)
+
+*Caption: Mode-label projection stability for the FMF dataset. It separates assigned LP group labels from LP11x/LP11y-like reference projections, preventing camera-only or convention-only claims.*
+
+![28_eme_smatrix_power_budget](figures/28_eme_smatrix_power_budget.png)
+
+*Caption: Power budget from the real Lumerical EME S-matrix replay: LP11x target coupling, non-target LP11 leakage, LP01 leakage, S11 reflection, and untracked/loss. This figure distinguishes interface evidence from retained-FDE propagation evidence.*
+
+![29_revised_gate_robustness_deferred_summary](figures/29_revised_gate_robustness_deferred_summary.png)
+
+*Caption: Existing robustness and tolerance data are visualized as deferred risk. This figure documents known sensitivity without upgrading the current report to a robust-final-validation claim.*
+
 ![geometry](figures/rsoft_lp11x_bpm_geometry.png)
 
 *Caption: Geometry and aperture overview for the locked p46/SCF86 LP11x-like Jones candidate. This supports the structure claim only; it is not a modal-success metric.*
@@ -153,12 +193,12 @@ This package contains `26` tracked figure rows. Every row is listed in `data/fin
 | 1_structure_architecture | `complete_current_status` | base_02_structure_jones_architecture; RSoft BPM geometry; Jones input figures |  |
 | 2_cross_section_field_panels | `complete_current_status` | retained-FDE field packet figures 10-15 plus RSoft final-field panels |  |
 | 3_modal_decomposition | `complete_current_status` | base_04_modal_decomposition and RSoft modal power bars |  |
-| 4_mmi_gain_length | `partial_feasibility` | RSoft gate metric delta_eta_vs_L0 and retained-FDE proof length; no new global length scan in this refresh | Full global length/geometry optimization is deferred by task scope. |
+| 4_mmi_gain_length | `complete_current_status` | 20_length_mmi_gain_and_solver_reconciliation plus RSoft direct L=0 delta_eta evidence | Full global length/geometry optimization remains deferred by task scope; current-status MMI evidence is covered. |
 | 5_scf_propagation | `complete_current_status` | retained-FDE SCF z=0/z=L panels and RSoft longitudinal monitor |  |
-| 6_basis_convergence | `referenced_not_replotted` | SCF160 retained-basis validation exists in source reports; no extra figure regenerated in this refresh | A dedicated convergence figure can be regenerated if the report is upgraded from current-status to robust final validation. |
+| 6_basis_convergence | `complete_current_status` | 22_lumerical_basis_validation_summary and copied SMF/SCF/FMF Gram heatmaps | Expanded robust convergence sweeps remain future work; current SCF160/FMF12 basis evidence is plotted. |
 | 7_input_control | `complete_current_status` | Jones input summary/amplitude/phase/polarization figures and input CSVs |  |
 | 8_solver_interface_evidence | `complete_current_status` | EME output intensity, COMSOL output figures, RSoft BPM figures and manifests |  |
-| 9_robustness_tolerance | `deferred_recorded` | base_05_deferred_risk_matrix and report limitation section | Robustness optimization is intentionally deferred for this feasibility/current-status report. |
+| 9_robustness_tolerance | `deferred_recorded` | base_05_deferred_risk_matrix and 29_revised_gate_robustness_deferred_summary | Robustness optimization is intentionally deferred for this feasibility/current-status report. |
 ## Remaining Limits And Next Decision
 
 - Robustness remains deferred for this refreshed package; existing tolerance studies still show beta/length sensitivity as the dominant risk.
