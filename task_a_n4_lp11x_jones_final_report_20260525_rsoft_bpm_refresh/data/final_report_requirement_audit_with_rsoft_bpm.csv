@@ -1,0 +1,11 @@
+requirement_id,requirement,status,evidence,deferred_reason
+0_overview_evidence_chain,"End-to-end evidence chain with solver pass/fail, scope, and source paths.",complete_current_status,base_01_evidence_chain plus refreshed key metrics and artifact index,
+1_structure_architecture,SMF/SCF/FMF geometry plus 4 core x 2 Jones polarization architecture.,complete_current_status,base_02_structure_jones_architecture; RSoft BPM geometry; Jones input figures,
+2_cross_section_field_panels,"SMF input, SCF z=0, SCF z=L, and FMF output amplitude/phase panels.",complete_current_status,retained-FDE field packet figures 10-15 plus RSoft final-field panels,
+3_modal_decomposition,Modal/group power and LP11x/LP11y decomposition figures.,complete_current_status,base_04_modal_decomposition and RSoft modal power bars,
+4_mmi_gain_length,Length/MMI evidence and L=0 comparison.,partial_feasibility,RSoft gate metric delta_eta_vs_L0 and retained-FDE proof length; no new global length scan in this refresh,Full global length/geometry optimization is deferred by task scope.
+5_scf_propagation,SCF propagation/tangential or longitudinal field evidence.,complete_current_status,retained-FDE SCF z=0/z=L panels and RSoft longitudinal monitor,
+6_basis_convergence,Mode-count/basis convergence and Gram diagnostics.,referenced_not_replotted,SCF160 retained-basis validation exists in source reports; no extra figure regenerated in this refresh,A dedicated convergence figure can be regenerated if the report is upgraded from current-status to robust final validation.
+7_input_control,"Per-SMF and Jones input amplitude, phase, power, and polarization.",complete_current_status,Jones input summary/amplitude/phase/polarization figures and input CSVs,
+8_solver_interface_evidence,"Lumerical FDE/EME, COMSOL, and RSoft/BPM solver evidence.",complete_current_status,"EME output intensity, COMSOL output figures, RSoft BPM figures and manifests",
+9_robustness_tolerance,"Robustness/tolerance plots for robust-final claims, or explicit deferred-risk record.",deferred_recorded,base_05_deferred_risk_matrix and report limitation section,Robustness optimization is intentionally deferred for this feasibility/current-status report.
